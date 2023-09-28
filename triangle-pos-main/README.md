@@ -4,7 +4,7 @@
 
 ## Local Installation
 
-- run `` git clone https://github.com/Robertson143/CapstoneProject-TrianglePOSMain-AZVarietyStore-Laravel.git
+- run `` git clone https://github.com/Robertson143/CapstoneProject-LaravelLivewire-trianglePOS.git
 - run ``composer install `` 
 - run `` npm install ``
 - run ``npm run dev``
